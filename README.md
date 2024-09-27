@@ -12,6 +12,7 @@
 [![Celery](https://img.shields.io/badge/technology-Celery-blue?logo=celery&logoColor=blue)](https://docs.celeryproject.org/en/)
 [![Transformers](https://img.shields.io/badge/technology-Transformers-blue?logo=huggingface&logoColor=blue)](https://huggingface.co/transformers/)
 [![Marvin](https://img.shields.io/badge/technology-Marvin-blue)](https://www.askmarvin.ai/)
+[![Tailwind CSS](https://img.shields.io/badge/styling-Tailwind%20CSS-blue?logo=tailwind-css&logoColor=blue)](https://tailwindcss.com/)
 [![Pytest](https://img.shields.io/badge/testing-Pytest-red?logo=pytest&logoColor=red)](https://docs.pytest.org/)
 [![Factory Boy](https://img.shields.io/badge/testing-Factory%20Boy-red)](https://factoryboy.readthedocs.io)
 [![Clean Architecture](https://img.shields.io/badge/architecture-Clean%20Architecture-orange)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
