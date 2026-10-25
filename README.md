@@ -1,54 +1,20 @@
-# Hello, Earthlings 🧑‍🚀
-
-```python
-class SpaceShaman(FullStackDeveloper):
-    """Milky Way resident. Prefer backend, loves clean code and new tech."""
-
-    native_language = "Python"
-    main_stack = [
-        "Django", "Django Ninja", "FastAPI", "Pydantic", "Celery",
-        "Transformers", "Marvin", "Pytest", "Factory Boy",
-        "Docker", "Docker Compose", "SQLite", "PostgreSQL",
-        "TypeScript", "Nuxt.js", "Tailwind CSS", "daisyUI", "Vuetify"
-    ]
-    methodologies = ["TDD", "DDD"]
-    code_style = ["black", "ruff"]
-    docs_style = "Material for MkDocs"
-
-    def __init__(self):
-        self.galaxy = "Milky Way"
-        self.role = "Full Stack Developer"
-        self.focus = "Backend > Frontend"
-        self.is_up_to_date = True
-
-    def design_system(self):
-        return "Loves exploring system architecture: simple, clear and scalable solutions."
-
-    def loves(self, thing):
-        return thing in self.methodologies or thing in self.main_stack
-
-    def build_ui(self):
-        return "Likes Nuxt, sometimes styles with Tailwind/daisyUI/Vuetify."
-
-    def test_code(self):
-        return "Testing with Pytest, TDD in blood."
-
-    def lint_code(self):
-        return "Linting with ruff, formatting with black."
-
-    def update_skills(self):
-        self.is_up_to_date = True
-
-    def __str__(self):
-        return (
-            f"👋 Hi, I'm SpaceShaman – "
-            f"full stack dev, backend-first, Python-native, "
-            f"interested in IT architecture as a whole, "
-            f"I believe that simple is better than complex 🧘"
-        )
-
-
-if __name__ == "__main__":
-    me = SpaceShaman()
-    print(me)
-```
+[![UserHarbor](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=userharbor%2Fuserharbor&show_owner=true&description_lines_count=3&theme=dark_github_repocard#gh-dark-mode-only)](https://github.com/userharbor/userharbor#gh-dark-mode-only)
+[![UserHarbor](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=userharbor%2Fuserharbor&show_owner=true&description_lines_count=3&theme=light_github_repocard#gh-light-mode-only)](https://github.com/userharbor/userharbor#gh-light-mode-only)
+[![SpaceOS](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2Fspaceos&show_owner=true&description_lines_count=3&theme=dark_github_repocard#gh-dark-mode-only)](https://github.com/SpaceShaman/spaceos#gh-dark-mode-only)
+[![SpaceOS](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2Fspaceos&show_owner=true&description_lines_count=3&theme=light_github_repocard#gh-light-mode-only)](https://github.com/SpaceShaman/spaceos#gh-light-mode-only)
+[![fasthtml-lucide](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2Ffasthtml-lucide&show_owner=true&description_lines_count=3&theme=dark_github_repocard#gh-dark-mode-only)](https://github.com/SpaceShaman/fasthtml-lucide#gh-dark-mode-only)
+[![fasthtml-lucide](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2Ffasthtml-lucide&show_owner=true&description_lines_count=3&theme=light_github_repocard#gh-light-mode-only)](https://github.com/SpaceShaman/fasthtml-lucide#gh-light-mode-only)
+[![SocketAPI](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2Fsocketapi&show_owner=true&description_lines_count=3&theme=dark_github_repocard#gh-dark-mode-only)](https://github.com/SpaceShaman/socketapi#gh-dark-mode-only)
+[![SocketAPI](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2Fsocketapi&show_owner=true&description_lines_count=3&theme=light_github_repocard#gh-light-mode-only)](https://github.com/SpaceShaman/socketapi#gh-light-mode-only)
+[![ORMagic](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2FORMagic&show_owner=true&description_lines_count=3&theme=dark_github_repocard#gh-dark-mode-only)](https://github.com/SpaceShaman/ORMagic#gh-dark-mode-only)
+[![ORMagic](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2FORMagic&show_owner=true&description_lines_count=3&theme=light_github_repocard#gh-light-mode-only)](https://github.com/SpaceShaman/ORMagic#gh-light-mode-only)
+[![SQLift](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2FSQLift&show_owner=true&description_lines_count=3&theme=dark_github_repocard#gh-dark-mode-only)](https://github.com/SpaceShaman/SQLift#gh-dark-mode-only)
+[![SQLift](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2FSQLift&show_owner=true&description_lines_count=3&theme=light_github_repocard#gh-light-mode-only)](https://github.com/SpaceShaman/SQLift#gh-light-mode-only)
+[![autopy.fish](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2Fautopy.fish&show_owner=true&description_lines_count=3&theme=dark_github_repocard#gh-dark-mode-only)](https://github.com/SpaceShaman/autopy.fish#gh-dark-mode-only)
+[![autopy.fish](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2Fautopy.fish&show_owner=true&description_lines_count=3&theme=light_github_repocard#gh-light-mode-only)](https://github.com/SpaceShaman/autopy.fish#gh-light-mode-only)
+[![autoenv.fish](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2Fautoenv.fish&show_owner=true&description_lines_count=3&theme=dark_github_repocard#gh-dark-mode-only)](https://github.com/SpaceShaman/autoenv.fish#gh-dark-mode-only)
+[![autoenv.fish](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2Fautoenv.fish&show_owner=true&description_lines_count=3&theme=light_github_repocard#gh-light-mode-only)](https://github.com/SpaceShaman/autoenv.fish#gh-light-mode-only)
+[![bitwarden-py](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2Fbitwarden-py&show_owner=true&description_lines_count=3&theme=dark_github_repocard#gh-dark-mode-only)](https://github.com/SpaceShaman/bitwarden-py#gh-dark-mode-only)
+[![bitwarden-py](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2Fbitwarden-py&show_owner=true&description_lines_count=3&theme=light_github_repocard#gh-light-mode-only)](https://github.com/SpaceShaman/bitwarden-py#gh-light-mode-only)
+[![window-shuffler.nvim](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2Fwindow-shuffler.nvim&show_owner=true&description_lines_count=3&theme=dark_github_repocard#gh-dark-mode-only)](https://github.com/SpaceShaman/window-shuffler.nvim#gh-dark-mode-only)
+[![window-shuffler.nvim](https://github-stats-extended.vercel.app/api/pin?username=SpaceShaman&repo=SpaceShaman%2Fwindow-shuffler.nvim&show_owner=true&description_lines_count=3&theme=light_github_repocard#gh-light-mode-only)](https://github.com/SpaceShaman/window-shuffler.nvim#gh-light-mode-only)
